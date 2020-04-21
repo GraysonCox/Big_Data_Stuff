@@ -1,0 +1,28 @@
+/bin/
+/target/
+
+# Compiled Class File
+*.class
+
+# Log File
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS Files
+.DS_Store
+
+# IDE Files
+.classpath
+.idea/
+.project
+.settings/
+*.iml
+
