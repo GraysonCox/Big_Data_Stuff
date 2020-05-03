@@ -1,0 +1,4 @@
+This is a collection of words for testing a word counting program .
+These words are cool .
+I like words . I like words like words .
+I am ready to graduate .
